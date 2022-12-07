@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/youngdong-app/static/css/main.eb8ab970.css",
-    "main.js": "/youngdong-app/static/js/main.a34b315f.js",
+    "main.js": "/youngdong-app/static/js/main.31a18172.js",
     "static/js/787.0279aa17.chunk.js": "/youngdong-app/static/js/787.0279aa17.chunk.js",
     "static/media/mainImage.png": "/youngdong-app/static/media/mainImage.fd35af214fa69c526639.png",
     "static/media/detailView.png": "/youngdong-app/static/media/detailView.d9e1622cb5e4a714f970.png",
@@ -29,11 +29,11 @@
     "static/media/liveCommerceIcon.png": "/youngdong-app/static/media/liveCommerceIcon.b204b99b284d739a3d0c.png",
     "index.html": "/youngdong-app/index.html",
     "main.eb8ab970.css.map": "/youngdong-app/static/css/main.eb8ab970.css.map",
-    "main.a34b315f.js.map": "/youngdong-app/static/js/main.a34b315f.js.map",
+    "main.31a18172.js.map": "/youngdong-app/static/js/main.31a18172.js.map",
     "787.0279aa17.chunk.js.map": "/youngdong-app/static/js/787.0279aa17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb8ab970.css",
-    "static/js/main.a34b315f.js"
+    "static/js/main.31a18172.js"
   ]
 }
