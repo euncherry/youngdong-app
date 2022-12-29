@@ -1,21 +1,12 @@
 {
   "files": {
     "main.css": "/youngdong-app/static/css/main.637f2384.css",
-    "main.js": "/youngdong-app/static/js/main.d7c6f890.js",
+    "main.js": "/youngdong-app/static/js/main.ec001e7c.js",
     "static/js/787.0279aa17.chunk.js": "/youngdong-app/static/js/787.0279aa17.chunk.js",
     "static/media/mainImage.png": "/youngdong-app/static/media/mainImage.fd35af214fa69c526639.png",
     "static/media/detailView.png": "/youngdong-app/static/media/detailView.d9e1622cb5e4a714f970.png",
-    "static/media/sig3.png": "/youngdong-app/static/media/sig3.a778c03e5050aa7470b5.png",
-    "static/media/test1.png": "/youngdong-app/static/media/test1.b0cbf5f9d546d655a6a7.png",
     "static/media/monkDetailProduct.png": "/youngdong-app/static/media/monkDetailProduct.d759be06a82002e9df7b.png",
-    "static/media/sig1.png": "/youngdong-app/static/media/sig1.9b16f92e800a867cb72b.png",
     "static/media/JejuGothic.ttf": "/youngdong-app/static/media/JejuGothic.5ab8dde3b67410fcb5f4.ttf",
-    "static/media/sig2.png": "/youngdong-app/static/media/sig2.dcbe531029acf28fc4c8.png",
-    "static/media/test2.png": "/youngdong-app/static/media/test2.9a50fbbedb6d55f38062.png",
-    "static/media/new1.png": "/youngdong-app/static/media/new1.43789e087748735f9905.png",
-    "static/media/new4.png": "/youngdong-app/static/media/new4.11266c9e3f8a2a94db79.png",
-    "static/media/new2.png": "/youngdong-app/static/media/new2.05d47ed430faa2d48c44.png",
-    "static/media/new3.png": "/youngdong-app/static/media/new3.0c190c81b2eb330827f7.png",
     "static/media/carousel_1.png": "/youngdong-app/static/media/carousel_1.c0416ec45ebebee9a16d.png",
     "static/media/carousel_5.png": "/youngdong-app/static/media/carousel_5.c0416ec45ebebee9a16d.png",
     "static/media/tway_sky.ttf": "/youngdong-app/static/media/tway_sky.e5dbc4aee02ebbcb0057.ttf",
@@ -24,18 +15,21 @@
     "static/media/carousel_3.png": "/youngdong-app/static/media/carousel_3.7412e75b08f39074e2fa.png",
     "static/media/NIXGONFONTS_L.otf": "/youngdong-app/static/media/NIXGONFONTS_L.584bdc1359a0664a4eb6.otf",
     "static/media/NIXGONFONTS_M.otf": "/youngdong-app/static/media/NIXGONFONTS_M.c78d4ef24f8a20d81f86.otf",
+    "static/media/monkListImg3.jpeg": "/youngdong-app/static/media/monkListImg3.3abc1a5343ffd0f1af52.jpeg",
     "static/media/counselingExp.png": "/youngdong-app/static/media/counselingExp.389fcf2e0cb8526d1f6e.png",
+    "static/media/monkListImg4.jpeg": "/youngdong-app/static/media/monkListImg4.8a75b75f506153c8494a.jpeg",
     "static/media/youngdongHeaderIcon.png": "/youngdong-app/static/media/youngdongHeaderIcon.aa6fbacb6e5170556f7d.png",
     "static/media/liveCommerceIcon.png": "/youngdong-app/static/media/liveCommerceIcon.b204b99b284d739a3d0c.png",
+    "static/media/monkListImg2.jpeg": "/youngdong-app/static/media/monkListImg2.1888190ddab7fccefaad.jpeg",
     "static/media/inquiryTitle.png": "/youngdong-app/static/media/inquiryTitle.86545289100f653dc5a7.png",
     "static/media/reviewTitle.png": "/youngdong-app/static/media/reviewTitle.645a559fd1f1f3e0a11b.png",
     "index.html": "/youngdong-app/index.html",
     "main.637f2384.css.map": "/youngdong-app/static/css/main.637f2384.css.map",
-    "main.d7c6f890.js.map": "/youngdong-app/static/js/main.d7c6f890.js.map",
+    "main.ec001e7c.js.map": "/youngdong-app/static/js/main.ec001e7c.js.map",
     "787.0279aa17.chunk.js.map": "/youngdong-app/static/js/787.0279aa17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.637f2384.css",
-    "static/js/main.d7c6f890.js"
+    "static/js/main.ec001e7c.js"
   ]
 }
